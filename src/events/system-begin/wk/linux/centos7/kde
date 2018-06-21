@@ -1,0 +1,3 @@
+#!/bin/bash
+
+yum install -y kde-workspace kmix ksysguard ksnapshot
